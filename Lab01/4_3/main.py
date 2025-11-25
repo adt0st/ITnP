@@ -1,5 +1,5 @@
-from package import numbers
-from package import texts
+from package.modules import numbers
+from package.modules import texts
 
 print(numbers.summ(2, 7))
 
